@@ -1,0 +1,10 @@
+pyspark
+pandas
+numpy
+pyarrow
+delta-spark
+snowflake-connector-python
+apache-airflow
+dbt-core
+dbt-snowflake
+matplotlib
